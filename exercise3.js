@@ -3,7 +3,33 @@ console.log("exercise3.js start");
 // Write a function named isMonday that accepts a string
 // as an argument and uses a switch statement to determine
 // if that string is equal to Monday.
-
+switch (val) {
+  case 'Monday':
+    answer = true;
+    break;
+    
+    switch (val) {
+      case 'Tuesday':
+        answer = false
+        break;
+        
+        switch (val) {
+          case 'Wednesday':
+            answer = false
+            break;
+            
+            switch (val) {
+              case 'April 1, 2019 03:24:00':
+                answer = new date
+                break;
+                
+                switch (val) {
+                  case date1.getDay:
+                    answer = false
+                    break;
+                    
+        
+        
 
 
 
