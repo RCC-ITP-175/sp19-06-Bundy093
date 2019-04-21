@@ -4,15 +4,27 @@ console.log("exercise2.js start");
 // and returns true if that argument is a string that 
 // starts with the letters "prog" and false otherwise. 
 
+function isProg () {
+  return false;
+}
+isProg('prgrmmng');
+break;
 
 
+function isProg () {
+  return false;
+}
+isProg('pr0gressive');
+       
+       function isProg () {
+  return true;
+}
+isProg('program');
 
-
-
-
-
-
-
+function isProg () {
+  return true;
+}
+isProg('progressive')
 
 
 

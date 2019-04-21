@@ -2,14 +2,25 @@ console.log("exercise1.js start");
 // INSTRUCTIONS
 // Write a function named multiplyThem that accepts two arguments 
 // and returns the value of the two arguments multiplied together.
-
-
-
-
-
-
-
-
+function multiplyThem(a, b) {
+  console.log(a * b);
+}
+  multiplyThem(6, 4)
+break;
+function multiplyThem(a, b) {
+  console.log(a * b);
+}
+multiplyThem(42, 43)
+break;
+function multiplyThem(a, b) {
+  console.log(a * b);
+}
+multiplyThem(1, 7)
+break;
+function multiplyThem(a, b) {
+  console.log(a * b);
+}
+multiplyThem(7, 3)
 
 
 
