@@ -23,7 +23,24 @@ function multiplyThem(a, b) {
 multiplyThem(7, 3)
 
 
+///////////////////////
+// INSTRUCTOR FEEDBACK
+///////////////////////
+// You wrote a good function on lines 5-7, the only thing I'd change is
+// line 6, use return a*b and not console.log(a*b)
 
+// -5 pts
+// Lines 8-23 are unneccesary and actually cause you some problems rather than help
+// Because I have the verification section at the bottom of the file,
+// lines 8, 13, 18, and 23 can just be deleted, but I understand why you added them
+// since you're using console.log() in your function on line 6. No real harm there
+
+// The break statements on lines 9, 14, and 19 will throw errors as break is intended
+// to be used in loops or switch statedments.
+
+// Redefining your function on lines 10, 15, and 20 loses you all the benefits of 
+// writing a function, which is to write some code once (lines 5-7) and then not
+// have to rewrite them again.
 
 
 
